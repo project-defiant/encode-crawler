@@ -1,2 +1,3 @@
 encode_dataset
 .venv
+__pycache__
